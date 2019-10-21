@@ -65,7 +65,7 @@
     }
   }
 
-  @mixin atlarge {
+  @mixin atLarge {
 
     &__b-margin-until-large {
       margin-bottom: 0;
@@ -117,3 +117,4 @@
         display: flex;
       }
     }
+  }
