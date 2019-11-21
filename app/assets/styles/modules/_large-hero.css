@@ -21,7 +21,7 @@
   }
   &__title {
     font-weight: 300;
-    color: $mainBlue;
+    color: $mainWhite;
     font-size: 2.4rem;
     margin: 0;
 
@@ -32,7 +32,7 @@
 
   &__subtitle {
     font-weight: 300;
-    color: $mainBlue;
+    color: $mainWhite;
     font-size: 1.5rem;
     margin: 0;
 
