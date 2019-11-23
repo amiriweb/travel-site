@@ -364,12 +364,12 @@ img {
 }
 
 a {
-	color: #dd4143;
+	color: #d59541;
 }
 
 .large-hero {
   position: relative;
-  border-bottom:10px solid #010101;
+  border-bottom:10px solid #2f5572;
 
 }
 
@@ -443,7 +443,7 @@ a {
   }
 
 .btn {
-  background-color: #010101;
+  background-color: #2f5572;
   color: #fff;
   text-decoration: none;
   padding: 0.75rem 1.2rem;
@@ -451,7 +451,7 @@ a {
 }
 
 .btn--orange {
-    background-color: #dd4143;
+    background-color: #d59541;
   }
 
 .btn--large {
@@ -558,7 +558,7 @@ a {
   }
 
 .page-section--blue {
-    background-color: #010101;
+    background-color: #2f5572;
     color: #fff;
   }
 
@@ -569,7 +569,7 @@ a {
 
 @media (min-width: 1200px) {
       .page-section--testimonials.lazyloaded {
-        background: url('/assets/images/testimonials-bg.jpg') top center;
+        background: url('../../assets/images/testimonials-bg.jpg') top center;
         background-repeat: no-repeat;
         background-size: cover;
       }
@@ -577,7 +577,7 @@ a {
 
 .headline {
   font-weight: 300;
-  color: #010101;
+  color: #2f5572;
   font-size: 1.9rem;
 
 }
@@ -595,7 +595,7 @@ a {
   }
 
 .headline--orange {
-    color: #dd4143;
+    color: #d59541;
   }
 
 .headline--small {
@@ -814,7 +814,7 @@ a {
   }
 
 .section-title--blue {
-    color: #010101;
+    color: #2f5572;
   }
 
 .section-title--less-margin {
@@ -869,7 +869,7 @@ a {
 /* YOU WILL BE GREAT */
 
 .icon {
-      background-image: url('/assets/images/sprites/css/svg/sprite.css-172298e6.svg');
+      background-image: url('../../assets/images/sprites/svg/sprite.css-172298e6.svg');
     }
 
 .icon--clear-view-escapes {
@@ -924,7 +924,6 @@ a {
     width: 64px;
     height: 64px;
     background-position: 59.11330049261084% 99.56481481481481%;
-    fill: #dd
   }
 
 .icon--twitter {
@@ -976,7 +975,7 @@ a {
   }
 
 .testimonial__title {
-    color: #010101;
+    color: #2f5572;
     text-align: center;
     font-size: 1.5rem;
     font-weight: 500;
@@ -984,7 +983,7 @@ a {
   }
 
 .testimonial__subtitle {
-    color: #dd4143;
+    color: #d59541;
     text-align: center;
     font-weight: 400;
     font-size: 0.9375rem;
@@ -992,7 +991,7 @@ a {
   }
 
 .site-footer {
-  background-color: #010101;
+  background-color: #2f5572;
   color: #fff;
   padding: .5rem 0;
   text-align: center;
@@ -1023,14 +1022,14 @@ a {
 }
 
 .site-header--is-expanded {
-    background-color: rgba(1,1,1, 0.55);
+    background-color: rgba(47,85,114, 0.55);
   }
 
 @media (min-width: 800px) {
 
 .site-header {
     position: fixed;
-    background-color: rgba(1,1,1, 0.3)
+    background-color: rgba(47,85,114, 0.3)
 }
 
     .site-header--dark {
@@ -1047,7 +1046,7 @@ a {
 
 .site-header__logo {
     position: absolute;
-    background-color: #010101;
+    background-color: #2f5572;
     left: 50%;
     transform: translateX(-50%) scale(.8);
     transition: transform .3s ease-out;
@@ -1172,7 +1171,7 @@ a {
 @media (min-width: 800px) {
 
 .primary-nav {
-    padding-top: 0
+    padding-top: 0 0
 }
   }
 
@@ -1226,7 +1225,7 @@ a {
     font-weight: 300;
     padding: 5px 8px;
     font-size: .8rem;
-    background-color: rgba(1,1,1, .3);
+    background-color: rgba(47,85,114, .3);
   }
 
 @media (min-width: 800px) {
@@ -1294,12 +1293,12 @@ a {
     font-size: 2rem;
     transform: scaleX(1.2);
     transform-origin: 100% 0;
-    color: #010101;
+    color: #2f5572;
     cursor: pointer;
   }
 
 .modal__close:hover {
-      color: #dd4143;
+      color: #d59541;
     }
 
 .social-icons {
@@ -1307,7 +1306,7 @@ a {
 }
 
 .social-icons__icon {
-    background-color: #dd4143;
+    background-color: #d59541;
     display: inline-block;
     margin: 0 5px 5px 5px;
     width: 33%;
